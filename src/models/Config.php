@@ -53,7 +53,7 @@ class Config extends Model
      * @var array HTML attribute options.
      */
     public array $attr = [
-        'class' => 'adWizard-ad',
+        'class' => 'adWizard',
         'style' => 'cursor:pointer',
     ];
 
